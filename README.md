@@ -1,5 +1,5 @@
 # Py Player Python Mp3 Player
-![alt text](./alıntı.png)
+![alt text](./png/alıntı.png)
 
  This application using pygame and customtkinter modules.This is the simplest MP3 Player.This program can be compile with Auto Py to Exe
  Auto Py to Exe Configuration
@@ -18,4 +18,4 @@
  Auto Py to Exe Configuration:
  
  
- ![alt text](./autopy.PNG)
+ ![alt text](./png/autopy.PNG)
