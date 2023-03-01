@@ -16,4 +16,6 @@
 
 
  Auto Py to Exe Configuration:
- ![alt text](./autopy.png)
+ 
+ 
+ ![alt text](./autopy.PNG)
